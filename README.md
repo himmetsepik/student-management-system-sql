@@ -5,11 +5,11 @@ A beginner-level SQL Server project developed using SQL Server Management Studio
 ## 📌 Project Features
 
 - Create and manage a SQL Server database
-- Design relational tables
-- Define Primary Key and Foreign Key relationships
+- Design relational database tables
+- Define primary key and foreign key relationships
 - Insert sample data
 - Perform basic and intermediate SQL queries
-- Use JOIN, GROUP BY, ORDER BY, WHERE and aggregate functions
+- Use JOIN, GROUP BY, ORDER BY, WHERE, and aggregate functions
 
 ## 🛠 Technologies
 
@@ -18,7 +18,7 @@ A beginner-level SQL Server project developed using SQL Server Management Studio
 
 ## 🗂 Database Structure
 
-The project contains the following tables:
+The project includes the following tables:
 
 - Students
 - Teachers
@@ -45,11 +45,11 @@ The project contains the following tables:
 
 ## ▶️ How to Run
 
-1. Open SQL Server Management Studio.
-2. Execute `01_Create_Database.sql`
-3. Execute `02_Create_Tables.sql`
-4. Execute `03_Insert_Data.sql`
-5. Execute `04_Queries.sql`
+1. Open SQL Server Management Studio (SSMS).
+2. Execute `01_Create_Database.sql`.
+3. Execute `02_Create_Tables.sql`.
+4. Execute `03_Insert_Data.sql`.
+5. Execute `04_Queries.sql`.
 
 ## 📷 Screenshots
 
@@ -61,13 +61,13 @@ The project contains the following tables:
 
 ![Teachers Table](screenshots/0002.png)
 
-### Course Table
+### Courses Table
 
-![Course Table](screenshots/0003.png)
+![Courses Table](screenshots/0003.png)
 
-### Enrollment Table
+### Enrollments Table
 
-![Enrollment Table](screenshots/0004.png)
+![Enrollments Table](screenshots/0004.png)
 
 ## 👨‍💻 Author
 
