@@ -53,10 +53,21 @@ The project contains the following tables:
 
 ## 📷 Screenshots
 
-You can add screenshots of:
-- Database tables
-- Query results
-- Object Explorer
+### Database Tables
+
+![Database Tables](screenshots/0001.png)
+
+### Students Table
+
+![Students Table](screenshots/0002.png)
+
+### SQL Query Example
+
+![SQL Query](screenshots/0003.png)
+
+### Query Results
+
+![Query Results](screenshots/0004.png)
 
 ## 👨‍💻 Author
 
