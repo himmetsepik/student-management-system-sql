@@ -53,21 +53,21 @@ The project contains the following tables:
 
 ## 📷 Screenshots
 
-### Database Tables
-
-![Database Tables](screenshots/0001.png)
-
 ### Students Table
 
-![Students Table](screenshots/0002.png)
+![Students Table](screenshots/0001.png)
 
-### SQL Query Example
+### Teachers Table
 
-![SQL Query](screenshots/0003.png)
+![Teachers Table](screenshots/0002.png)
 
-### Query Results
+### Course Table
 
-![Query Results](screenshots/0004.png)
+![Course Table](screenshots/0003.png)
+
+### Enrollment Table
+
+![Enrollment Table](screenshots/0004.png)
 
 ## 👨‍💻 Author
 
